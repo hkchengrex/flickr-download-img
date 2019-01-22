@@ -7,7 +7,7 @@ This script is initially used for downloading images of Colosseum from the ROME1
 - [Python Flickr API](https://github.com/alexis-mignon/python-flickr-api)
 
 ## Usage:
-`python crawl.py key=[Your flickr API key] -ids=[Your list of image ids]`
+`python crawl.py -key=[Your flickr API key] -ids=[Your list of image ids]`
 
 Your can obtain your Flickr API key here: https://www.flickr.com/services/apps/create/apply/
 
