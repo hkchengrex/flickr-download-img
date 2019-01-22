@@ -1,0 +1,1 @@
+awk '{print $1}' src.txt | grep -Eo '[0-9]+.jpg$' | grep -Eo '[0-9]+' > dst.txt
